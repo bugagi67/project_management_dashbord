@@ -6250,7 +6250,6 @@ function main() {
   });
   document.addEventListener("click", function (event) {
     var target = event.target;
-    console.log(target);
     if (target.classList.contains("dropdown-item")) {
       handleDropdownItemClick(state.getState(), target);
     }
