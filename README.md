@@ -1,5 +1,7 @@
 # Project Management Dashboard* 
 
+GH-PAGES: https://bugagi67.github.io/project_management_dashbord/
+
 **Легенда**
 
 Вы делаете рабочее место менеджера проектов, который может отслеживать как задачи по конкретному проекту, так и общую статистику по проектам.

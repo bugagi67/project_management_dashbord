@@ -17,7 +17,6 @@ function main() {
 
   document.addEventListener("click", (event) => {
     const target = event.target;
-    console.log(target);
 
     if (target.classList.contains("dropdown-item")) {
       handleDropdownItemClick(state.getState(), target);
